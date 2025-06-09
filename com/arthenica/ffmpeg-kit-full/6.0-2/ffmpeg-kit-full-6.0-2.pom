@@ -7,13 +7,13 @@
   <!-- that they should prefer consuming it instead. -->
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.mrljdx</groupId>
+  <groupId>com.arthenica</groupId>
   <artifactId>ffmpeg-kit-full</artifactId>
-  <version>6.0</version>
+  <version>6.0-2</version>
   <packaging>aar</packaging>
   <name>ffmpeg-kit-full</name>
   <description>Includes FFmpeg with dav1d, fontconfig, freetype, fribidi, gmp, gnutls, kvazaar, lame, libass, libiconv, libilbc, libtheora, libvorbis, libvpx, libwebp, zimg, libxml2, opencore-amr, opus, shine, snappy, soxr, speex, twolame and vo-amrwbenc libraries enabled.</description>
-  <url>https://github.com/mrljdx/ffmpeg-kit</url>
+  <url>https://github.com/arthenica/ffmpeg-kit</url>
   <licenses>
     <license>
       <name>GNU Lesser General Public License, Version 3</name>
@@ -22,19 +22,19 @@
   </licenses>
   <developers>
     <developer>
-      <id>mrljdx</id>
-      <name>Mrljdx</name>
-      <email>mrljdx@gmail.com</email>
+      <id>arthenica</id>
+      <name>ARTHENICA</name>
+      <email>open-source@arthenica.com</email>
     </developer>
   </developers>
   <scm>
-    <connection>https://github.com/mrljdx/ffmpeg-kit.git</connection>
-    <developerConnection>https://github.com/mrljdx/ffmpeg-kit.git</developerConnection>
-    <url>https://github.com/mrljdx/ffmpeg-kit</url>
+    <connection>https://github.com/arthenica/ffmpeg-kit.git</connection>
+    <developerConnection>https://github.com/arthenica/ffmpeg-kit.git</developerConnection>
+    <url>https://github.com/arthenica/ffmpeg-kit</url>
   </scm>
   <dependencies>
     <dependency>
-      <groupId>com.mrljdx</groupId>
+      <groupId>com.arthenica</groupId>
       <artifactId>smart-exception-java</artifactId>
       <version>0.2.1</version>
       <scope>compile</scope>
